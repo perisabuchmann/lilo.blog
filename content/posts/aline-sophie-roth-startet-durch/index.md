@@ -15,10 +15,12 @@ Ob es darum geht, ihre Karriere voranzutreiben, neue Talente zu entdecken oder s
 
 In Aline Sophie Roth sehen wir eine Inspirationsquelle, eine Quelle der Stärke und eine Erinnerung daran, dass wir alle die Macht haben, unsere Träume zu verwirklichen, wenn wir nur den Mut haben, den ersten Schritt zu tun und hart dafür zu arbeiten.
 
-
-
 ((<box>))
 
 Aline du bisch es Schnüggeli
 
 ((<box>))
+
+```
+Gugus du Peter
+```
