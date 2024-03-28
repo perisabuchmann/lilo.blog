@@ -5,6 +5,8 @@ draft = false
 pinned = false
 image = "c0ac73d1-2cda-4de2-b729-5838d9b40abf.jpeg"
 +++
+![Aline in ihrem Element](54b15de1-cb11-4053-97cd-d6a04216c321.jpeg)
+
 Aline Sophie Roth startet durch. Der Morgen bricht an, und sie steht bereit, die Welt zu erobern. Mit einem Funkeln in ihren Augen und Entschlossenheit in ihrem Herzen macht sie sich auf den Weg, ihre Träume zu verwirklichen. Ihr Weg mag steinig sein, aber ihr unerschütterlicher Glaube an sich selbst und ihre Fähigkeiten treibt sie an, Hindernisse zu überwinden und neue Horizonte zu erkunden.
 
 Aline Sophie Roth ist eine Frau voller Leidenschaft und Zielstrebigkeit. Sie hat große Ziele und ist bereit, hart zu arbeiten, um sie zu erreichen. Ihre Entschlossenheit ist ansteckend, und sie inspiriert andere dazu, ebenfalls an ihre Träume zu glauben und mutig voranzuschreiten.
@@ -15,12 +17,8 @@ Ob es darum geht, ihre Karriere voranzutreiben, neue Talente zu entdecken oder s
 
 In Aline Sophie Roth sehen wir eine Inspirationsquelle, eine Quelle der Stärke und eine Erinnerung daran, dass wir alle die Macht haben, unsere Träume zu verwirklichen, wenn wir nur den Mut haben, den ersten Schritt zu tun und hart dafür zu arbeiten.
 
-((<box>))
 
-Aline du bisch es Schnüggeli
-
-((<box>))
 
 ```
-Gugus du Peter
+Gugus mis süesse Schnüggeli 
 ```
