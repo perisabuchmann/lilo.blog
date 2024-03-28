@@ -3,6 +3,7 @@ title = "„Tibet ist in Vergessenheit geraten\" "
 date = "2024-03-28"
 draft = false
 pinned = false
+image = "9ae9ec02-87e2-4cb0-917d-d96d9dbf9849.png"
 +++
 ((<lead>))
 
