@@ -14,3 +14,11 @@ Mit jedem Schritt, den sie macht, wächst Aline Sophie Roth über sich hinaus. S
 Ob es darum geht, ihre Karriere voranzutreiben, neue Talente zu entdecken oder sich persönlich weiterzuentwickeln, Aline Sophie Roth ist bereit, die Herausforderungen anzunehmen, die das Leben ihr bietet. Sie ist eine Frau, die weiß, was sie will, und die bereit ist, alles zu geben, um es zu erreichen.
 
 In Aline Sophie Roth sehen wir eine Inspirationsquelle, eine Quelle der Stärke und eine Erinnerung daran, dass wir alle die Macht haben, unsere Träume zu verwirklichen, wenn wir nur den Mut haben, den ersten Schritt zu tun und hart dafür zu arbeiten.
+
+
+
+((<box>))
+
+Aline du bisch es Schnüggeli
+
+((<box>))
