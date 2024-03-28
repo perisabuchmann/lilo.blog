@@ -4,11 +4,11 @@ date = "2024-03-28"
 draft = false
 pinned = false
 +++
-(<lead>)
+((<lead>))
 
 Seit der Machtübernahme Tibets durch China sind tausende Tibeter geflüchtet. Die 65-jährige Tendöl Namling ist in den 80er-Jahren in die Schweiz gekommen. Wie es sich im Exil lebt und welche Erfahrungen sie erlebt hat, erzählt sie uns beim Besuch in ihrem Laden. 
 
-(<lead>)
+((<lead>))
 
 ![Tendöl in ihrem Laden (Lhasa Boutique)](924278ab-ab98-4e37-b13a-ab926bd3e705.jpeg)
 
@@ -27,7 +27,5 @@ Die chinesische Regierung kontrolliert streng die religiösen Praktiken, dazu ge
 „Meine Religion gibt mir viel Kraft und Frieden“ 
 
 In der Schweiz kann Tendöl ihre Religion, den Buddhismus, frei ausleben und praktizieren. Seit fünf Jahren hört sie fast jeden Tag tibetische Philosophie Podcasts. Jeden Morgen, steht sie um fünf Uhr auf und hört diese Podcasts bis um sieben Uhr. Das löst in ihr ein gutes Gefühl. Der Buddhismus ist eine Erfahrungsreligion und strebt das Ziel an, die Entwicklung des eigenen Geistes. Im Zentrum steht kein Gott, sondern die Lehre der Lebensführung, die auf philosophisches Denken beruht. Laut Tendöl leide das tibetische Volk bis heute unter der chinesischen Besatzung. Trotz allem sind sie stark geblieben. Sie hat keinen Hass gegenüber den Chinesen, sondern empfindet Trauer. Sie fügt an, der Buddhismus ist Schicksal. Es sei ihr Schicksal und damit sollte sie positiv umgehen. 
-
- 
 
 Am 17. März 1959 flüchtet der 24-jährige Dalai Lama mit mehreren Tausenden Tibetern nach Indien. Darunter auch der Vater von Tendöl. Sie erzählt, dass sie ihren Vater deshalb noch nie gesehen hat. Bevor Tendöl in die Schweiz kam, besuchte sie den Dalai Lama in Indien. Dazu macht sie bemerkbar, dass fast alle Tibeter nach Indien gehen, um den Dalai Lama zu sehen. Auch sie gehört unter denjenigen die ihn sehen konnten. Laut Tendöl gibt er Rat und seine wertvolle Philosophie mit auf denWeg.
