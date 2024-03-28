@@ -1,7 +1,7 @@
 +++
 title = "Aline Sophie Roth startet durch"
 date = "2024-03-28"
-draft = true
+draft = false
 pinned = false
 image = "c0ac73d1-2cda-4de2-b729-5838d9b40abf.jpeg"
 +++
