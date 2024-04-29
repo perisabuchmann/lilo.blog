@@ -4,7 +4,7 @@ date = "2024-03-28"
 draft = false
 pinned = false
 image = "9ae9ec02-87e2-4cb0-917d-d96d9dbf9849.png"
-footnotes = "**Quellen:**\n\nhttps://www.bar.admin.ch\n\nhttps://freetibet-org\n\nhttps://www.tfos.online\n\nhttps://www.fedlex.admin.ch"
+footnotes = "**Quellen:**\n\nhttps://www.bar.admin.ch\n\nhttps://freetibet-org.translate.goog/\n\nhttps://www.tfos.online\n\nhttps://www.fedlex.admin.ch"
 +++
 Seit der Machtübernahme Chinas in Tibet sind tausende Tibeter geflüchtet. Die 65-jährige Tendöl Namling ist in den 80er-Jahren in die Schweiz gekommen. Wie es sich im Exil lebt und welche Erfahrungen sie gemacht hat, erzählt sie beim Besuch in ihrem Laden in der Berner Altstadt.
 
@@ -23,6 +23,8 @@ Dalai Lama
 Der Dalai Lama ist das geistliche Oberhaupt der Buddhisten in Tibet. Aufgrund der politischen Lage in Tibet ist er mit tausenden weiteren Tibetern nach Indien geflüchtet. Dort kämpft er für die Menschenrechte und Frieden. Er gilt als hochangesehen, sodass viele Tibeter extra nach Indien reisen, um ihn zu sehen. Sein Name bedeutet so viel wie „Ozean der Weisheit".
 
 ((</box>))
+
+
 
 ((<box>))
 
