@@ -5,11 +5,11 @@ draft = false
 pinned = false
 image = "9ae9ec02-87e2-4cb0-917d-d96d9dbf9849.png"
 +++
-((<lead>))
+
 
 Seit der Machtübernahme Chinas in Tibet sind tausende Tibeter geflüchtet. Die 65-jährige Tendöl Namling ist in den 80er-Jahren in die Schweiz gekommen. Wie es sich im Exil lebt und welche Erfahrungen sie gemacht hat, erzählt sie beim Besuch in ihrem Laden in der Berner Altstadt.
 
-((</lead>))
+
 
 ![Tendöl in ihrem Laden Lhasa Boutique (Foto: Berra Akcar, 2024)](924278ab-ab98-4e37-b13a-ab926bd3e705.jpeg)
 
@@ -20,7 +20,11 @@ Im Jahre 1950 fand der Tibetkrieg statt, die Volksbefreiungsarmee der Volksrepub
 ```
 Dalai Lama
 
-Der Dalai Lama ist das geistliche Oberhaupt der Buddhisten in Tibet. Aufgrund der politischen Lage in Tibet ist er mit tausenden weiteren Tibetern nach Indien geflüchtet. Dort kämpft er für die Menschenrechte und Frieden. Er gilt als hochangesehen, sodass viele Tibeter extra nach Indien reisen, um ihn zu sehen. Sein Name bedeutet so viel wie „Ozean der Weisheit".
+Der Dalai Lama ist das geistliche Oberhaupt der Buddhisten in Tibet. 
+Aufgrund der politischen Lage in Tibet ist er mit tausenden weiteren Tibetern 
+nach Indien geflüchtet. Dort kämpft er für die Menschenrechte und Frieden.
+Er gilt als hochangesehen, sodass viele Tibeter extra nach Indien reisen, 
+um ihn zu sehen. Sein Name bedeutet so viel wie „Ozean der Weisheit".
 ```
 
 ![]()
@@ -29,17 +33,14 @@ Dalai Lama
 
 Der Dalai Lama ist das geistliche Oberhaupt der Buddhisten in Tibet. Aufgrund der politischen Lage in Tibet ist er mit tausenden weiteren Tibetern nach Indien geflüchtet. Dort kämpft er für die Menschenrechte und Frieden. Er gilt als hochangesehen, sodass viele Tibeter extra nach Indien reisen, um ihn zu sehen. Sein Name bedeutet so viel wie „Ozean der Weisheit".
 
-
-
 ![Abbildung 2: Potala-Palast in Tibet, Lhasa (Quelle: whc.unesco.org)](aa0232f6-52d3-40ba-a17b-d1bebc41d81e.jpeg)
 
-
-
 ```
-Der sogenannte Potala-Palast in der Hauptstadt Lhasa ist der Regierungssitz des Dalai Lamas. Während der Machtübernahme in Tibet durch China diente der Palast vorwiegend als Unterkunft der chinesischen Armee. Heute gehört er zur Liste des UNSESCO-Welterbes.
+Der sogenannte Potala-Palast in der Hauptstadt Lhasa ist der Regierungssitz
+des Dalai Lamas. Während der Machtübernahme in Tibet durch China diente der
+Palast vorwiegend als Unterkunft der chinesischen Armee. Heute gehört er zur
+Liste des UNSESCO-Welterbes.
 ```
-
-
 
 Als Tendöl gefragt wird, wie sie in die Schweiz kam, erzählt sie, dass in den 80er Jahren die Kontrollen durch die Besatzer ein wenig gelockert wurden. So konnte sie Kontakt zu ihren Schwestern aufnehmen. Sie hatte bereits zwei Schwestern in der Schweiz, die sie bis dahin nicht kennenlernen konnte. Das Zusammentreffen der Schwestern fand im Kinderdorf Pestalozzi im Jahre 1982 statt. Mit ihrer Mutter zusammen flog Tendöl in die Schweiz mit einem chinesischen Pass und bemerkt dazu: ,,Alle Tibeter haben einen chinesischen Pass”. Früher konnten sich Tibeter in der Schweiz als ,,staatenlos“ oder mit ,,Tibet (Volksrepublik China)“ registrieren lassen. Im November 2014 entschied das Staatssekretariat für Migration (SEM), dass Asylsuchende aus Tibet nur noch mit Herkunft ,,China (Volksrepublik)“ registriert werden. 
 
