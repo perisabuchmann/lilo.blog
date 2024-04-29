@@ -14,8 +14,6 @@ Beim Betreten des kleinen, kompakten Ladens, welcher sich in der Berner Altstadt
 
 Im Jahre 1950 fand der Tibetkrieg statt, die Volksbefreiungsarmee der Volksrepublik China erlangte die Kontrolle über Tibet. Laut der Quelle *freetibet* kam es am 10. März 1959 zu einem Tibetischen Aufstand. In diesem Aufstand wurde gegen die Unterdrückung der chinesischen Besatzungsarmee protestiert. In der Hauptstadt Lhasa, versammelten sich Tausende Tibeter und umstellten den Potala-Palast. Sie befürchteten, dass der Dalai Lama in Gefahr sei. Sie wollten ihn beschützen. Durch den Protest, kamen Zehntausend Menschen ums Leben. Auch der Dalai-Lama musste ins Exil fliehen.
 
-
-
 ((<box>))
 
 ![Abbildung 1: Bild von Dalai Lama (Quelle: Kevin Frayer/Ap, nzz.ch)](56550e89-6ca2-4a85-aca2-8e39eae8e72f_4_5005_c.jpeg)
@@ -35,8 +33,6 @@ Der Dalai Lama ist das geistliche Oberhaupt der Buddhisten in Tibet. Aufgrund de
 Der sogenannte Potala-Palast in der Hauptstadt Lhasa ist der Regierungssitz des Dalai Lamas. Während der Machtübernahme in Tibet durch China diente der Palast vorwiegend als Unterkunft der chinesischen Armee. Heute gehört er zur Liste des UNSESCO-Welterbes.
 
 ((</box>))
-
-
 
 Als Tendöl gefragt wird, wie sie in die Schweiz kam, erzählt sie, dass in den 80er Jahren die Kontrollen durch die Besatzer ein wenig gelockert wurden. So konnte sie Kontakt zu ihren Schwestern aufnehmen. Sie hatte bereits zwei Schwestern in der Schweiz, die sie bis dahin nicht kennenlernen konnte. Das Zusammentreffen der Schwestern fand im Kinderdorf Pestalozzi im Jahre 1982 statt. Mit ihrer Mutter zusammen flog Tendöl in die Schweiz mit einem chinesischen Pass und bemerkt dazu: ,,Alle Tibeter haben einen chinesischen Pass”. Früher konnten sich Tibeter in der Schweiz als ,,staatenlos“ oder mit ,,Tibet (Volksrepublik China)“ registrieren lassen. Im November 2014 entschied das Staatssekretariat für Migration (SEM), dass Asylsuchende aus Tibet nur noch mit Herkunft ,,China (Volksrepublik)“ registriert werden. 
 
