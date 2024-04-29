@@ -14,7 +14,7 @@ Beim Betreten des kleinen, kompakten Ladens, welcher sich in der Berner Altstadt
 
 Im Jahre 1950 fand der Tibetkrieg statt, die Volksbefreiungsarmee der Volksrepublik China erlangte die Kontrolle über Tibet. Laut der Quelle *freetibet* kam es am 10. März 1959 zu einem Tibetischen Aufstand. In diesem Aufstand wurde gegen die Unterdrückung der chinesischen Besatzungsarmee protestiert. In der Hauptstadt Lhasa, versammelten sich Tausende Tibeter und umstellten den Potala-Palast. Sie befürchteten, dass der Dalai Lama in Gefahr sei. Sie wollten ihn beschützen. Durch den Protest, kamen Zehntausend Menschen ums Leben. Auch der Dalai-Lama musste ins Exil fliehen.
 
-{{<box title="Dalai Lama">}}
+{{<box>}}
 
 ![Abbildung 1: Bild von Dalai Lama (Quelle: Kevin Frayer/Ap, nzz.ch)](56550e89-6ca2-4a85-aca2-8e39eae8e72f_4_5005_c.jpeg)
 
@@ -24,11 +24,7 @@ Der Dalai Lama ist das geistliche Oberhaupt der Buddhisten in Tibet. Aufgrund de
 
 {{</box>}}
 
-
-
-{{<box title="Potala-Palast">}}
-
-
+{{<box>}}
 
 ![Abbildung 2: Potala-Palast in Tibet, Lhasa (Quelle: whc.unesco.org)](aa0232f6-52d3-40ba-a17b-d1bebc41d81e.jpeg)
 
@@ -62,7 +58,7 @@ Im Jahre 1982 hat sich Tendöl entschieden, ihr Leben in der Schweiz weiterzufü
 
 Das Staatssekretariat für Migration (SEM) ist zuständig für die Durchführung des Asylverfahrens und regelt dabei, wer unter welchen Bedingungen in die Schweiz einreisen, arbeiten und leben darf.
 
-{{<box title="Rechtsstellung der Flüchtlinge">}}
+{{<box>}}
 
 Abkommen über die Rechtsstellung der Flüchtlinge, Artikel 1
 
