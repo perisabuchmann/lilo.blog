@@ -23,7 +23,7 @@ Er gilt als hochangesehen, sodass viele Tibeter extra nach Indien reisen,
 um ihn zu sehen. Sein Name bedeutet so viel wie „Ozean der Weisheit".
 ```
 
-![](56550e89-6ca2-4a85-aca2-8e39eae8e72f_4_5005_c.jpeg)
+![Abbildung 1: Bild von Dalai Lama (Quelle: Kevin Frayer/Ap, nzz.ch)](56550e89-6ca2-4a85-aca2-8e39eae8e72f_4_5005_c.jpeg)
 
 Dalai Lama
 
