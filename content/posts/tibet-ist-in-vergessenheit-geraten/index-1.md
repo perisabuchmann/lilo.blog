@@ -14,6 +14,8 @@ Beim Betreten des kleinen, kompakten Ladens, welcher sich in der Berner Altstadt
 
 Im Jahre 1950 fand der Tibetkrieg statt, die Volksbefreiungsarmee der Volksrepublik China erlangte die Kontrolle über Tibet. Laut der Quelle *freetibet* kam es am 10. März 1959 zu einem Tibetischen Aufstand. In diesem Aufstand wurde gegen die Unterdrückung der chinesischen Besatzungsarmee protestiert. In der Hauptstadt Lhasa, versammelten sich Tausende Tibeter und umstellten den Potala-Palast. Sie befürchteten, dass der Dalai Lama in Gefahr sei. Sie wollten ihn beschützen. Durch den Protest, kamen Zehntausend Menschen ums Leben. Auch der Dalai-Lama musste ins Exil fliehen.
 
+
+
 ((<box>))
 
 ![Abbildung 1: Bild von Dalai Lama (Quelle: Kevin Frayer/Ap, nzz.ch)](56550e89-6ca2-4a85-aca2-8e39eae8e72f_4_5005_c.jpeg)
