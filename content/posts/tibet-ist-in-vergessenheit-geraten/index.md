@@ -23,11 +23,7 @@ Der Dalai Lama ist das geistliche Oberhaupt der Buddhisten in Tibet. Aufgrund de
 
 ((</box>))
 
-
-
 ((<box>))
-
-
 
 ![Abbildung 2: Potala-Palast in Tibet, Lhasa (Quelle: whc.unesco.org)](aa0232f6-52d3-40ba-a17b-d1bebc41d81e.jpeg)
 
