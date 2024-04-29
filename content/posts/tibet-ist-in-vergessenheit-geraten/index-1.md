@@ -14,7 +14,7 @@ Beim Betreten des kleinen, kompakten Ladens, welcher sich in der Berner Altstadt
 
 Im Jahre 1950 fand der Tibetkrieg statt, die Volksbefreiungsarmee der Volksrepublik China erlangte die Kontrolle über Tibet. Laut der Quelle *freetibet* kam es am 10. März 1959 zu einem Tibetischen Aufstand. In diesem Aufstand wurde gegen die Unterdrückung der chinesischen Besatzungsarmee protestiert. In der Hauptstadt Lhasa, versammelten sich Tausende Tibeter und umstellten den Potala-Palast. Sie befürchteten, dass der Dalai Lama in Gefahr sei. Sie wollten ihn beschützen. Durch den Protest, kamen Zehntausend Menschen ums Leben. Auch der Dalai-Lama musste ins Exil fliehen.
 
-((<box>))
+{{<box>}}
 
 ![Abbildung 1: Bild von Dalai Lama (Quelle: Kevin Frayer/Ap, nzz.ch)](56550e89-6ca2-4a85-aca2-8e39eae8e72f_4_5005_c.jpeg)
 
@@ -22,17 +22,17 @@ Dalai Lama
 
 Der Dalai Lama ist das geistliche Oberhaupt der Buddhisten in Tibet. Aufgrund der politischen Lage in Tibet ist er mit tausenden weiteren Tibetern nach Indien geflüchtet. Dort kämpft er für die Menschenrechte und Frieden. Er gilt als hochangesehen, sodass viele Tibeter extra nach Indien reisen, um ihn zu sehen. Sein Name bedeutet so viel wie „Ozean der Weisheit".
 
-((</box>))
+{{</box>}}
 
 
 
-((<box>))
+{{<box>}}
 
 ![Abbildung 2: Potala-Palast in Tibet, Lhasa (Quelle: whc.unesco.org)](aa0232f6-52d3-40ba-a17b-d1bebc41d81e.jpeg)
 
 Der sogenannte Potala-Palast in der Hauptstadt Lhasa ist der Regierungssitz des Dalai Lamas. Während der Machtübernahme in Tibet durch China diente der Palast vorwiegend als Unterkunft der chinesischen Armee. Heute gehört er zur Liste des UNSESCO-Welterbes.
 
-((</box>))
+{{</box>}}
 
 Als Tendöl gefragt wird, wie sie in die Schweiz kam, erzählt sie, dass in den 80er Jahren die Kontrollen durch die Besatzer ein wenig gelockert wurden. So konnte sie Kontakt zu ihren Schwestern aufnehmen. Sie hatte bereits zwei Schwestern in der Schweiz, die sie bis dahin nicht kennenlernen konnte. Das Zusammentreffen der Schwestern fand im Kinderdorf Pestalozzi im Jahre 1982 statt. Mit ihrer Mutter zusammen flog Tendöl in die Schweiz mit einem chinesischen Pass und bemerkt dazu: ,,Alle Tibeter haben einen chinesischen Pass”. Früher konnten sich Tibeter in der Schweiz als ,,staatenlos“ oder mit ,,Tibet (Volksrepublik China)“ registrieren lassen. Im November 2014 entschied das Staatssekretariat für Migration (SEM), dass Asylsuchende aus Tibet nur noch mit Herkunft ,,China (Volksrepublik)“ registriert werden. 
 
@@ -60,9 +60,7 @@ Im Jahre 1982 hat sich Tendöl entschieden, ihr Leben in der Schweiz weiterzufü
 
 Das Staatssekretariat für Migration (SEM) ist zuständig für die Durchführung des Asylverfahrens und regelt dabei, wer unter welchen Bedingungen in die Schweiz einreisen, arbeiten und leben darf.
 
-
-
-((<box>))
+{{<box>}}
 
 Abkommen über die Rechtsstellung der Flüchtlinge, Artikel 1
 
@@ -72,9 +70,7 @@ lit. 2 
 
 Laut der Quelle *fedlex.admin:* die sich... aus begründeter Furcht vor Verfolgung wegen ihrer Rasse, Religion, Staatszugehörigkeit, Zugehörigkeit zu einer bestimmten sozialen Gruppe oder wegen ihrer politischen Überzeugung ausserhalb ihres Heimatlandes befindet und dessen Schutz nicht beanspruchen kann oder wegen dieser Befürchtungen nicht beanspruchen will; oder die sich als Staatenlose infolge solcher Ereignisse ausserhalb ihres Wohnsitzstaates befindet und dorthin nicht zurückkehren kann oder wegen der erwähnten Befürchtungen nicht zurückkehren will.
 
-((</box>))
-
-
+{{/box>}}
 
 Asylverfahren werden durchgeführt, um zu prüfen, ob die Vorbringen glaubhaft und die Kriterien für die Zuerkennung des Flüchtlingsstatus erfüllt sind. Wenn das Gesuch abgelehnt wird und auch keine vorläufige Aufnahme beispielsweise wegen medizinischen Gründen erteilt wird, müssen die Asylsuchenden die Schweiz wieder verlassen.
 
