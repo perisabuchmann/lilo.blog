@@ -5,11 +5,7 @@ draft = false
 pinned = false
 image = "9ae9ec02-87e2-4cb0-917d-d96d9dbf9849.png"
 +++
-
-
 Seit der Machtübernahme Chinas in Tibet sind tausende Tibeter geflüchtet. Die 65-jährige Tendöl Namling ist in den 80er-Jahren in die Schweiz gekommen. Wie es sich im Exil lebt und welche Erfahrungen sie gemacht hat, erzählt sie beim Besuch in ihrem Laden in der Berner Altstadt.
-
-
 
 ![Tendöl in ihrem Laden Lhasa Boutique (Foto: Berra Akcar, 2024)](924278ab-ab98-4e37-b13a-ab926bd3e705.jpeg)
 
