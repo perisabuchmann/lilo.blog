@@ -17,9 +17,11 @@ Beim Betreten des kleinen, kompakten Ladens, welcher sich in der Berner Altstadt
 
 Im Jahre 1950 fand der Tibetkrieg statt, die Volksbefreiungsarmee der Volksrepublik China erlangte die Kontrolle über Tibet. Laut der Quelle *freetibet* kam es am 10. März 1959 zu einem Tibetischen Aufstand. In diesem Aufstand wurde gegen die Unterdrückung der chinesischen Besatzungsarmee protestiert. In der Hauptstadt Lhasa, versammelten sich Tausende Tibeter und umstellten den Potala-Palast. Sie befürchteten, dass der Dalai Lama in Gefahr sei. Sie wollten ihn beschützen. Durch den Protest, kamen Zehntausend Menschen ums Leben. Auch der Dalai-Lama musste ins Exil fliehen.
 
+```
+Dalai Lama
 
-
-((<box>))
+Der Dalai Lama ist das geistliche Oberhaupt der Buddhisten in Tibet. Aufgrund der politischen Lage in Tibet ist er mit tausenden weiteren Tibetern nach Indien geflüchtet. Dort kämpft er für die Menschenrechte und Frieden. Er gilt als hochangesehen, sodass viele Tibeter extra nach Indien reisen, um ihn zu sehen. Sein Name bedeutet so viel wie „Ozean der Weisheit".
+```
 
 ![]()
 
@@ -27,17 +29,17 @@ Dalai Lama
 
 Der Dalai Lama ist das geistliche Oberhaupt der Buddhisten in Tibet. Aufgrund der politischen Lage in Tibet ist er mit tausenden weiteren Tibetern nach Indien geflüchtet. Dort kämpft er für die Menschenrechte und Frieden. Er gilt als hochangesehen, sodass viele Tibeter extra nach Indien reisen, um ihn zu sehen. Sein Name bedeutet so viel wie „Ozean der Weisheit".
 
-((</box))
 
-((<box))
 
 ![Abbildung 2: Potala-Palast in Tibet, Lhasa (Quelle: whc.unesco.org)](aa0232f6-52d3-40ba-a17b-d1bebc41d81e.jpeg)
 
-Potala-Palast
 
-Der sogenannte Potala-Palast in der Hauptstadt Lhasa ist der Regierungssitz des [Dalai Lamas](<>). Während der Machtübernahme in Tibet durch China diente der Palast vorwiegend als Unterkunft der chinesischen Armee. Heutegehört er zur Liste des UNSESCO-Welterbes.
 
-((</box))
+```
+Der sogenannte Potala-Palast in der Hauptstadt Lhasa ist der Regierungssitz des Dalai Lamas. Während der Machtübernahme in Tibet durch China diente der Palast vorwiegend als Unterkunft der chinesischen Armee. Heute gehört er zur Liste des UNSESCO-Welterbes.
+```
+
+
 
 Als Tendöl gefragt wird, wie sie in die Schweiz kam, erzählt sie, dass in den 80er Jahren die Kontrollen durch die Besatzer ein wenig gelockert wurden. So konnte sie Kontakt zu ihren Schwestern aufnehmen. Sie hatte bereits zwei Schwestern in der Schweiz, die sie bis dahin nicht kennenlernen konnte. Das Zusammentreffen der Schwestern fand im Kinderdorf Pestalozzi im Jahre 1982 statt. Mit ihrer Mutter zusammen flog Tendöl in die Schweiz mit einem chinesischen Pass und bemerkt dazu: ,,Alle Tibeter haben einen chinesischen Pass”. Früher konnten sich Tibeter in der Schweiz als ,,staatenlos“ oder mit ,,Tibet (Volksrepublik China)“ registrieren lassen. Im November 2014 entschied das Staatssekretariat für Migration (SEM), dass Asylsuchende aus Tibet nur noch mit Herkunft ,,China (Volksrepublik)“ registriert werden. 
 
@@ -60,8 +62,6 @@ Tendöl ist Mitglied in einer tibetischen Gemeinschaft in Bern. Gemeinsam mit ih
  Am 17. März 1959 flüchtet der 24-jährige Dalai Lama mit mehreren Tausenden Tibetern nach Indien, darunter auch der Vater von Tendöl. Sie erzählt, dass sie ihren Vater deshalb noch nie gesehen habe. Der Vater ist nach der Flucht leider früh verstorben. Bevor Tendöl in die Schweiz kam, besuchte sie den Dalai Lama in Indien. Dazu merkt sie an, dass fast alle Tibeter nach Indien gehen, um den Dalai Lama zu sehen. Auch sie gehört zu denjenigen, die ihn in Indien sehen konnten. Laut Tendöl gibt er Rat und seine wertvolle Philosophie mit auf den Weg.
 
 Im Jahre 1982 hat sich Tendöl entschieden, ihr Leben in der Schweiz weiterzuführen. Daraufhin stellt sie einen Asylantrag. Darin ist ihr Name wie in ihrem Reisepass geschrieben: Zhuoma, Danzen, chinesische Staatsangehörige. Die chinesische Regierung, konnte einerseits ihren tibetischen Namen nicht aussprechen, und anderseits hatte Tendöl Angst, ihren kritisierten tibetischen Familiennamen ,,Namseling“ anzugeben. In ihrem Asylverfahren muss Tendöl alles erzählen, was sie erlebt hat und über die aktuelle Situation in Tibet berichten. 1985 wurde Tendöl als Flüchtlingsfrau anerkannt und erhielt Asyl in der Schweiz. Heute hat Tendöl einen Schweizer Pass und sagt stolz dazu: „Ich habe viel daran gearbeitet“.
-
- 
 
 **Asylverfahren in der Schweiz**
 
